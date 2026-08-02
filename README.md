@@ -1,8 +1,6 @@
 # SoundWeaves Stack
 
-### Backend - Django Rest Framework (DRF) (Includes admin panel and Authentication)
-
-### Frontend - Vue3 (Includes component library and state management)
+### Backend - Django Framework (Includes admin panel and Authentication), (HTMX for Music Player)
 
 ### Database - PostgreSQL
 
